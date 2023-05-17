@@ -5,7 +5,7 @@ const outletsSchema=mongoose.Schema({
     city:{
         type: String,
         require: true,
-    },
+    }, 
     address:{
         type: String,
         require: true,
